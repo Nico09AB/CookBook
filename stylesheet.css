@@ -56,3 +56,8 @@ body {
 .dropdown:hover .dropdown-content {
     display: block;
 }
+.footer {
+    background-color: rgb(38, 38, 38);
+    padding: 7px;
+    color: white;
+}
