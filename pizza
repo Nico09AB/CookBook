@@ -3,21 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="stylesheet.css">
-<style>
-    .header {
-        background-color: rgb(127, 127, 127);
-        padding: 30px;
-        background: linear-gradient(rgb(107, 142, 174), rgb(24, 72, 118));
-        color: white;
-    }
-</style>
+    <title>Pizza</title>
+    <link rel="stylesheet" href="../stylesheet.css">
 </head>
 <body>
     <div class="topnav">
-        <a href="index.html">Home</a>
-        <a href="about.html">About</a>
+        <a href="../index.html">Home</a>
+        <a href="../about.html">About</a>
         <div class="dropdown">
             <button class="dropdown-button">Dropdown 
                 <i class="fa fa-caret-down"></i>
@@ -28,9 +20,7 @@
                 <a href="recipes/pasta">Pasta</a>
             </div>
         </div> 
-        <a href="credits.html" style="float:right;">Credits</a>
+        <a href="../credits.html" style="float: right;">Credits</a>
     </div>
-    <div class="header">
-        <h1 style="text-align: center;">About</h1>
 </body>
 </html>
